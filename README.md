@@ -3,9 +3,8 @@
   <br />
   <br />
 </div>
-<p align="center">
-  <img alt="Banner | BinayakShree" src="https://i.imgur.com/8pvq7oV.gif">
-</p>>
+
+<img alt="Banner | BinayakShree" src="https://i.imgur.com/8pvq7oV.gif">
 
 I'm BinayakShree, a learning passionate individual from Nepal. I am a highschool student who is currently learning Full-Stack Web Development as a hobby. I utilize my free time separated from my study to learn new technologies.Other than that, I am also a cricket lover who watches a lot of cricket. I am a introvert and enjoy living in between the four walls of my house with no social interaction.The motto of my life is "PEACE✌".
 
